@@ -1,0 +1,24 @@
+_repo: Our-Greatest-Battle-The-Meuse-Argonne_49205
+creator:
+  author:
+    agent_name: Palmer, Frederick
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '3757'
+    url: http://www.gutenberg.org/2009/agents/3757
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Palmer_%28journalist%29
+description: ''
+gutenberg_issued: '2015-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Argonne, Battle of the, France, 1918'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Western Front'
+title: Our Greatest Battle (The Meuse-Argonne)
+url: http://www.gutenberg.org/ebooks/49205
